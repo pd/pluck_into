@@ -1,4 +1,4 @@
-# pluck_into
+# pluck_into [![Build Status](https://travis-ci.org/pd/pluck_into.svg?branch=master)](https://travis-ci.org/pd/pluck_into)
 
 `ActiveRecord::Base#pluck` is great, but I often find myself mapping over its return
 value to wrap each row into a domain object of some kind.
